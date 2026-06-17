@@ -1,0 +1,21 @@
+#labelcounter{
+    display: block;
+    font-size: 10em;
+    text-align: center;
+    font-family:  Helvetica;
+}
+#btncontainer{
+    text-align: center;
+}
+.buttonn{
+    padding: 10px 20px ;
+    font-size: 1,2em;
+    border-radius: 5px;
+    color: white;
+    background-color: hsl(166, 86%, 64%);
+    cursor: pointer;
+    transition: 0.25s;
+}
+.buttonn:hover{
+    background-color: hsl(166, 86%, 44%);
+}
